@@ -1,4 +1,4 @@
-# Comment installer le tchat sur une page de mon site web ?
+# Installer le tchat sur une page de mon site web ?
 ## Requis
 * Un nom de domaine avec hébergement web
 * PHP 5.6 minimum
